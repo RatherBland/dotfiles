@@ -6,7 +6,7 @@ import = [
 decorations = "None" 
 
 [window.padding]
-x = 10
+x = 5
 y = 10
 
 [env]
