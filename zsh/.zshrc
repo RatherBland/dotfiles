@@ -8,19 +8,24 @@ bindkey -v
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/guy/.zshrc'
 
-autoload -Uz compinit
+autoload -Uz compinit history-search-end
 compinit
 # End of lines added by compinstall
 
 # Prompt styling
-PROMPT='%n@%m:%1~/ %#'
+PROMPT='%n@%m:%1~/ $ '
 
 # Run neofetch on shell start
 neofetch
 
+# Speed up key press rate
+xset r rate 220 40
+
 ZSHPATH="/usr/share/zsh"
 
-plugins=(git zsh-autocomplete zsh-syntax-highlighting you-should-use)
+plugins=(zsh-autocomplete zsh-syntax-highlighting you-should-use zsh-timer)
+
+alias copy='xclip -sel clip'
 
 #source $ZSHPATH/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #source $ZSHPATH/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
