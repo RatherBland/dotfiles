@@ -17,6 +17,7 @@ Redshift
 ### Other
 Meslo Nerd Font (ttf-nerd-font)
 BetterFox
+auto-cpufreq (Battery optimisation)
 
 ## Troubleshooting
 
