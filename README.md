@@ -5,19 +5,20 @@ My Dotfiles
 i3
 
 ### Packages
-Polybar
-Rofi
-Picom
-Zsh
-- zsh-autocomplete, zsh-syntax-highlighting, you-should-use
-Neovim
-- NvChad
-Redshift
+- Alacritty
+- Polybar
+- Rofi
+- Picom
+- Zsh
+  - zsh-autocomplete, zsh-syntax-highlighting, you-should-use
+- Neovim
+  - NvChad
+- Redshift
 
 ### Other
-Meslo Nerd Font (ttf-nerd-font)
-BetterFox
-auto-cpufreq (Battery optimisation)
+- Meslo Nerd Font (ttf-nerd-font)
+- BetterFox
+- auto-cpufreq (Battery optimisation)
 
 ## Troubleshooting
 
