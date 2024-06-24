@@ -5,19 +5,19 @@ My Dotfiles
 i3
 
 ### Packages
-- Alacritty
-- Polybar
-- Rofi
-- Picom
-- Zsh
+- Alacritty (Terminal emulator)
+- Polybar (Status bar)
+- Rofi (Search menu)
+- Picom (Compositor)
+- Zsh (Shll)
   - zsh-autocomplete, zsh-syntax-highlighting, you-should-use
-- Neovim
+- Neovim (Editor/IDE)
   - NvChad
-- Redshift
+- Redshift (Eye strain management)
 
 ### Other
 - Meslo Nerd Font (ttf-nerd-font)
-- BetterFox
+- BetterFox (Better Firefox performance)
 - auto-cpufreq (Battery optimisation)
 
 ## Troubleshooting
