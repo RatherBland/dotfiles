@@ -27,5 +27,5 @@ plugins=(zsh-autocomplete zsh-syntax-highlighting you-should-use zsh-timer)
 
 alias copy='xclip -sel clip'
 
-#source $ZSHPATH/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-#source $ZSHPATH/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+# Enable all VirtualBox services. Requires VirtualBox Guest Additions https://wiki.archlinux.org/title/VirtualBox/Install_Arch_Linux_as_a_guest
+/usr/bin/VBoxClient-all
